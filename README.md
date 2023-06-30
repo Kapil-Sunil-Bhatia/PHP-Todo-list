@@ -3,7 +3,7 @@
 
 Hi Guys this is my First Project for Web Development Backend Internship from 1stop.ai
 
-Demo photos
+# Demo photos
 
 ## **Add a new Task**
 ![image](https://github.com/Kapil-Sunil-Bhatia/PHP-Todo-list/assets/111693509/92015fc9-5104-4bec-aa76-441decc74c34)
