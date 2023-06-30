@@ -14,3 +14,11 @@ Hi Guys this is my First Project for Web Development Backend Internship from 1st
 ## **Delete Task**
 ![image](https://github.com/Kapil-Sunil-Bhatia/PHP-Todo-list/assets/111693509/9c099aa1-122d-46e3-a97d-79db51586365)
 
+# If you also want to use same project then follow the steps given:
+
+## Steps :
+1) Downpoad the sql file from the repository.
+2) Import it on xampp Php MyAdmin.
+3) copy the path of the index.php file and paste it in xampp config file.
+4) run ``localhost/index.php`` on any browser.
+   
